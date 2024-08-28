@@ -1,3 +1,5 @@
+Status: Archive (code is provided as-is, no updates expected)
+
 ## HazardWorld
 
 HazardWorld is a 2D Gridworld reinforcement learning environment designed to
